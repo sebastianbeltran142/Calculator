@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\Calculator\Calculator_VB_adb.exe
+C:\Users\ASUS\Desktop\Calculator\Calculator_VB_adb.dll
+C:\Users\ASUS\Desktop\Calculator\Calculator_VB_adb.deps.json
+C:\Users\ASUS\Desktop\Calculator\Calculator_VB_adb.runtimeconfig.json
+C:\Users\ASUS\Desktop\Calculator\Calculator_VB_adb.pdb
